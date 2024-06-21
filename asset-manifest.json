@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KitsuC/IuNhi.git/static/css/main.09309aec.css",
+    "main.js": "/KitsuC/IuNhi.git/static/js/main.5a31b927.js",
+    "index.html": "/KitsuC/IuNhi.git/index.html",
+    "main.09309aec.css.map": "/KitsuC/IuNhi.git/static/css/main.09309aec.css.map",
+    "main.5a31b927.js.map": "/KitsuC/IuNhi.git/static/js/main.5a31b927.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09309aec.css",
+    "static/js/main.5a31b927.js"
+  ]
+}
